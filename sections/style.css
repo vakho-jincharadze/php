@@ -1,0 +1,9 @@
+
+
+.submit_form {
+    color: rgb(0, 100, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
